@@ -20,6 +20,12 @@ pipeline {
 			
 			}
 		}
+// story AB-102
+		stage("git clone"){
+			step{
+				git 'repo'
+			}
+		}
 		
 		
 	}
