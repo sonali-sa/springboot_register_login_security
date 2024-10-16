@@ -1,3 +1,9 @@
+// changes for AB-103
+tools {
+	maven "m3"
+	java "17"
+	docker "2.1"
+}
 
 
 
