@@ -1,4 +1,4 @@
-From Windows
+FROM Windows
 FROM ubuntu
 MAINTAINER "Sonali"
 CMD "echo hello"
